@@ -220,6 +220,6 @@ mvn test -Dcucumber.filter.tags="@step2"
 ---
 ## Submission Assets
 All documents and artifacts are attached to the GitHub Release:
-👉 [Submission v1 – Docs & Artifacts](https://github.com/<user>/saucedemo-checkout-bdd-selenium-java/releases/tag/v1.0.0)
+👉 [Submission v1 – Docs & Artifacts](https://github.com/vasilsg1989/saucedemo-checkout-bdd-selenium-java/releases/tag/files)
 
 Happy testing! 
