@@ -218,5 +218,8 @@ mvn test -Dcucumber.filter.tags="@step2"
 - Cache Maven repository between runs for faster builds.
 
 ---
+## Submission Assets
+All documents and artifacts are attached to the GitHub Release:
+👉 [Submission v1 – Docs & Artifacts](https://github.com/<user>/saucedemo-checkout-bdd-selenium-java/releases/tag/v1.0.0)
 
 Happy testing! 
